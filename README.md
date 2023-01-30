@@ -59,4 +59,4 @@ pip install option-greek-pricing
 
 ## Usage
 
-For more detailed examples and explanations, please look at the following file: [Option Greeks & Pricing.ipynb](https://github.com/mh2rashi/OptionGreeksPricing/blob/main/Option%20Pricing%20%26%20Greeks.ipynb)
+For more detailed examples and explanations, please look at the following file: [Option Greeks & Pricing.ipynb](https://github.com/mh2rashi/OptionGreekPricing/blob/main/Option%20Greeks%20%26%20Pricing.ipynb)
