@@ -49,7 +49,7 @@ A package written in Python with equations to calculate option Prices and Greeks
 **Setup - PyPi Install:**
 
 The project can be found at PyPI, if you'd like to view the project please use this
-[link](https://pypi.org/project/python-trading-robot/). To **install** the library,
+[link](https://pypi.org/project/option-greek-pricing/). To **install** the library,
 run the following command from the terminal.
 
 ```bash
